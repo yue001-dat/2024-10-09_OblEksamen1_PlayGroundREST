@@ -7,6 +7,7 @@ namespace _2024_10_09_PlayGroundREST.Controllers
 		[HttpGet]
 		public string Index()
 		{
+			// Test
 			return "Hello World";
 		}
 	}
