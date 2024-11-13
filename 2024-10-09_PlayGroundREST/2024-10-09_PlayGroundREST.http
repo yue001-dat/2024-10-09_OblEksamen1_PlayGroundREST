@@ -1,0 +1,6 @@
+@_2024_10_09_PlayGroundREST_HostAddress = http://localhost:5019
+
+GET {{_2024_10_09_PlayGroundREST_HostAddress}}/playground/
+Accept: application/json
+
+###
