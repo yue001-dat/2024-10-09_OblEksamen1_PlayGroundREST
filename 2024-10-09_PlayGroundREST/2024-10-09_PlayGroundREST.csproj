@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Reference Include="PlayGroundLib">
-      <HintPath>..\..\2024-10-09_PlayGroundLib\PlayGroundLib\bin\Debug\net8.0\PlayGroundLib.dll</HintPath>
+      <HintPath>Packages\PlayGroundLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 
